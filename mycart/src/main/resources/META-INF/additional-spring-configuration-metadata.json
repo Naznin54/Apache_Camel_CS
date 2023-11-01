@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "mongo.retry.maxAttempts",
+    "type": "java.lang.String",
+    "description": "A description for 'mongo.retry.maxAttempts'"
+  },
+  {
+    "name": "mongo.retry.initialDelay",
+    "type": "java.lang.String",
+    "description": "A description for 'mongo.retry.initialDelay'"
+  }
+]}
